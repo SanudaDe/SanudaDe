@@ -70,12 +70,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SanudaDe/SanudaDe/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SanudaDe/SanudaDe/output/snake.yaml" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SanudaDe/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/SanudaDe/count.yaml?"  />
 </div>
 
 ###
